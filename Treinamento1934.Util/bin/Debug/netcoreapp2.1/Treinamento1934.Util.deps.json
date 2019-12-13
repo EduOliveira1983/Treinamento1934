@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Treinamento1934.Util/1.0.0": {
+        "runtime": {
+          "Treinamento1934.Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Treinamento1934.Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
